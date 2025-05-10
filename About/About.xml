@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ModMetaData>
+    <name>More Implants</name>
+    <author>AeonianTest</author>
+    <packageId>AeonianTest.MoreImplants</packageId>
+    <modVersion>0.0.1</modVersion>
+    <description>Adds in an expanded list of implantable prosthetics to augment Colonists</description>
+    <url>https://github.com/AeonianTest/More-Implants.git</url>
+    <supportedVersions>
+        <li>1.5</li>
+    </supportedVersions>
+</ModMetaData>
